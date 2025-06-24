@@ -1,0 +1,79 @@
+#HTML_1 {
+    height: 657px;
+    width: 811px;
+    perspective-origin: 405.5px 328.5px;
+    transform-origin: 405.5px 328.5px;
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#HTML_1*/
+
+#HTML_1:after {
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#HTML_1:after*/
+
+#HTML_1:before {
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#HTML_1:before*/
+
+#HEAD_2, #TITLE_3, #LINK_5, #META_7, #SCRIPT_10 {
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#HEAD_2, #TITLE_3, #LINK_5, #META_7, #SCRIPT_10*/
+
+#HEAD_2:after, #TITLE_3:after, #LINK_5:after, #META_7:after, #SCRIPT_10:after {
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#HEAD_2:after, #TITLE_3:after, #LINK_5:after, #META_7:after, #SCRIPT_10:after*/
+
+#HEAD_2:before, #TITLE_3:before, #LINK_5:before, #META_7:before, #SCRIPT_10:before {
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#HEAD_2:before, #TITLE_3:before, #LINK_5:before, #META_7:before, #SCRIPT_10:before*/
+
+#LINK_4, #LINK_6 {
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#LINK_4, #LINK_6*/
+
+#LINK_4:after, #LINK_6:after {
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#LINK_4:after, #LINK_6:after*/
+
+#LINK_4:before, #LINK_6:before {
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#LINK_4:before, #LINK_6:before*/
+
+#BODY_8 {
+    height: 641px;
+    width: 795px;
+    perspective-origin: 397.5px 320.5px;
+    transform-origin: 397.5px 320.5px;
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#BODY_8*/
+
+#BODY_8:after {
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#BODY_8:after*/
+
+#BODY_8:before {
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#BODY_8:before*/
+
+#IFRAME_9 {
+    bottom: 0px;
+    display: block;
+    height: 689.844px;
+    left: 0px;
+    position: fixed;
+    right: 0px;
+    top: -49px;
+    width: 811px;
+    z-index: 999999;
+    perspective-origin: 405.5px 344.922px;
+    transform-origin: 405.5px 344.922px;
+    border: 0px none rgb(0, 0, 0);
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#IFRAME_9*/
+
+#IFRAME_9:after {
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#IFRAME_9:after*/
+
+#IFRAME_9:before {
+    font: normal normal 400 normal 16px / normal "Times New Roman";
+}/*#IFRAME_9:before*/
